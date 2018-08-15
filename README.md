@@ -1,3 +1,5 @@
 # folder-gui
 
-This is an unpopulated file system for navigating folders. New folders can be made and traversed using JavaScript arrays.
+This was the solution to a puzzle of making a file system using nested arrays. An unpopulated file system can add new folders which can made and traversed. The current directory is tracked with a system of array indices. 
+
+Languages: HTML, CSS, JS
